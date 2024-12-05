@@ -87,11 +87,6 @@ If you do not meet GoDaddy's API access requirements, consider the following alt
 3. **Contact GoDaddy Support:**
    - Reach out to GoDaddy's support team to discuss your specific needs. They may offer solutions or grant exceptions based on your situation.
 
-**Additional Resources:**
-
-- For a comprehensive guide and alternative methods, refer to the [Instructables tutorial on Quick and Dirty Dynamic DNS Using GoDaddy](https://www.instructables.com/Quick-and-Dirty-Dynamic-DNS-Using-GoDaddy/).
-- For managing GoDaddy DNS with PowerShell, consider the [GoDaddy PowerShell module by Clint Colding](https://github.com/clintcolding/GoDaddy).
-
 **Note:**
 
 Ensure that your script handles errors gracefully and includes logging for monitoring purposes. Regularly verify that the script functions as intended, especially after any changes to your network configuration or GoDaddy account settings.
